@@ -34,12 +34,12 @@
 - 🏦 **Major**: FinTech (Baekseok Univ.)
 - 💾 **Interest**: Database Administration (DBA), SQL Tuning, High Availability (HA)
 - ⚙️ **IDE**: IntelliJ IDEA Ultimate
-- ✍️ **Certification**: 정보처리기사 준비 중
+- ✍️ **Certification**: ADsP, SQLD
 
 ---
 
 ### 📫 Contact
 - **GitHub**: [github.com/Youngjinni](https://github.com/Youngjinni)
-- **Email**: (여기에 이메일 주소를 적어주세요)
+- **Email**: lkjmnh1283@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngjinni&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
