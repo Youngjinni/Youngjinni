@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Youngjinni 👋
 
-<!--
-**Youngjinni/Youngjinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / DevOps Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Youngjinni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngjinni&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngjinni&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Youngjinni&theme=tokyonight)
+
+---
+
+## 🛠 Tech Stack
+
+Java • Spring Boot • Docker • Kubernetes • AWS • Terraform
