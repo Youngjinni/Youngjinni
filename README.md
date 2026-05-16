@@ -25,9 +25,7 @@
 ### ✅ 스키마 설계
 - 핀테크 결제 도메인 기반 물리 ERD 설계 (3NF 정규화 적용 및 일부 효율을 위한 반정규화)
 - 파티셔닝 전략 수립 (거래 이력 테이블 — Range Partition by 거래일자)
-### ✅ 인덱스 전략
-- Composite Index · Function-Based Index · Partial Index 적용 사례 정리
-- 인덱스 과적용으로 인한 DML 성능 저하 방지 기준 수립
+
 ---
 ### 🚀 Projects
 
