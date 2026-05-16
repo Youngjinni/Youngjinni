@@ -16,16 +16,25 @@
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
+ 
+## 📌 핵심 역량 요약
+ 
+### ✅ SQL 튜닝
+- 실행계획(`EXPLAIN PLAN`, `DBMS_XPLAN`) 분석으로 Full Table Scan → Index Range Scan 전환
+- 튜닝 후 응답속도 평균 **73% 감소** 달성 (케이스 상세 → [`02_sql_tuning`](./02_sql_tuning/))
+### ✅ 스키마 설계
+- 핀테크 결제 도메인 기반 물리 ERD 설계 (3NF 정규화 적용)
+- 파티셔닝 전략 수립 (거래 이력 테이블 — Range Partition by 거래일자)
+### ✅ 인덱스 전략
+- Composite Index · Function-Based Index · Partial Index 적용 사례 정리
+- 인덱스 과적용으로 인한 DML 성능 저하 방지 기준 수립
+---
 ### 🚀 Projects
 
-#### **[J-capstone-project] 금융 데이터 분석 및 주가 예측 플랫폼**
+#### **[MLWEB] 금융 데이터 분석 및 주가 예측 플랫폼**
 - **소개**: LSTM과 Random Forest 모델을 활용하여 주가 변동을 예측하고 대시보드를 제공하는 웹 서비스입니다.
 - **역할**: 프로젝트 아키텍처 설계, Spring Boot 기반 백엔드 API 개발, 데이터베이스 연동 및 관리.
 - **핵심 기술**: Java 21, Spring Boot, React, Python(ML), Database Tuning.
-
-#### **정보처리기사 준비 및 기술 블로깅**
-- 기초 전산 지식과 데이터베이스 실무 능력을 탄탄히 다지기 위해 이론 및 실습 내용을 기록하고 있습니다.
 
 ---
 
