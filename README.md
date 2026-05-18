@@ -1,11 +1,11 @@
-# 👋 안녕하세요, 김영진입니다!
-> **데이터로 가치를 창출하는 핀테크 개발자**를 꿈꾸고 있습니다.
+# 안녕하세요, 김영진입니다!
+> **데이터로 가치를 창출하는 개발자**를 꿈꾸고 있습니다.
 
-백석대학교에서 핀테크를 전공하며, 안정적인 백엔드 아키텍처 설계와 데이터베이스 최적화, 그리고 머신러닝을 활용한 금융 데이터 분석에 깊은 관심을 가지고 있습니다.
+핀테크를 전공하며, 안정적인 백엔드 아키텍처 설계와 데이터베이스 최적화, 그리고 머신러닝을 활용한 금융 데이터 분석에 깊은 관심을 가지고 있습니다.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Language & Framework**
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,17 +17,17 @@
 
 ---
  
-## 📌 핵심 역량 요약
+## 핵심 역량 요약
  
-### ✅ SQL 튜닝
+### SQL 튜닝
 - 실행계획(EXPLAIN PLAN) 분석으로 Full Table Scan → Index Range Scan 전환
 - 튜닝 후, 최대 30초 이상으로 타임아웃 쿼리 2초 이내로 정상화 
-### ✅ 스키마 설계
+### 스키마 설계
 - 핀테크 결제 도메인 기반 물리 ERD 설계 (3NF 정규화 적용 및 일부 효율을 위한 반정규화)
 - 파티셔닝 전략 수립 (거래 이력 테이블 — Range Partition by 거래일자)
 
 ---
-### 🚀 Projects
+### Projects
 
 #### **[MLWEB] 금융 데이터 분석 및 주가 예측 플랫폼**
 - **소개**: LSTM과 Random Forest 모델을 활용하여 주가 변동을 예측하고 대시보드를 제공하는 웹 서비스입니다.
@@ -36,16 +36,16 @@
 
 ---
 
-### 📈 Stats & Experience
+### Stats & Experience
 
-- 🏦 **Major**: FinTech (Baekseok Univ.)
-- 💾 **Interest**: Database Administration (DBA), SQL Tuning, High Availability (HA)
-- ⚙️ **IDE**: IntelliJ IDEA Ultimate
-- ✍️ **Certification**: ADsP, SQLD
+- **Major**: FinTech (Baekseok Univ.)
+- **Interest**: Database Administration (DBA), SQL Tuning, High Availability (HA)
+- **IDE**: IntelliJ IDEA Ultimate
+- **Certification**: ADsP, SQLD
 
 ---
 
-### 📫 Contact
+### Contact
 - **GitHub**: [github.com/Youngjinni](https://github.com/Youngjinni)
 - **Email**: lkjmnh1283@gmail.com
 
