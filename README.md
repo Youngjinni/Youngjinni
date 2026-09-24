@@ -40,7 +40,7 @@
 - **Major**: FinTech (Baekseok Univ.)
 - **Interest**: Database Administration (DBA), SQL Tuning, High Availability (HA)
 - **IDE**: IntelliJ IDEA Ultimate
-- **Certification**: ADsP, SQLD
+- **Certification**: ADsP, SQLD, 정보처리기사
 
 ---
 
